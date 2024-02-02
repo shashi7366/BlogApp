@@ -1,0 +1,9 @@
+.setVisibile{
+    visibility: visible;
+    transition:1s;
+}
+
+.setHidden{
+    visibility: hidden;
+
+}

@@ -1,0 +1,9 @@
+.custom{
+    background-color: rgba(254,192,22,255);
+    opacity:1;
+    transition: background-color 1s;
+}
+
+.changeBg{
+    background-color:white;
+}
